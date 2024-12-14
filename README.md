@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhrohit-coder&label=Profile%20views&color=0e75b6&style=flat" alt="singhrohit-coder" /> </p>
 
-- 🔭 I’m currently working on **Food Ordering Application**
+- 🔭 I’m currently working on **Food Ordering Application** **(Swiggy Clone)**
 
 - 🌱 I’m currently learning **React.js**
 
