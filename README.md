@@ -1,6 +1,5 @@
 # 💫 About Me:
-React Native Developer crafting smooth cross-platform apps ⚛️  
-Leveling up in **Node.js** & backend integrations 🔧  
+React Native Developer crafting smooth cross-platform apps ⚛️    
 Open to collaborating on **mobile & frontend projects** 🤝
 
 ## 🌐 Socials:
