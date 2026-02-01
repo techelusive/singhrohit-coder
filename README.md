@@ -1,5 +1,7 @@
 # 💫 About Me:
-Currently building devTinder 🔧<br>Learning Node.js & leveling up in React.js ⚛️<br>Open to collaborating on frontend projects 🤝
+React Native Developer crafting smooth cross-platform apps ⚛️  
+Leveling up in **Node.js** & backend integrations 🔧  
+Open to collaborating on **mobile & frontend projects** 🤝
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohitsingh1912?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iknowrohit19@gmail.com) 
